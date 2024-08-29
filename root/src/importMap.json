@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@mfvue/admin": "http://localhost:8001/dist/spa.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "root",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1",
+    "vite-plugin-single-spa": "^0.7.0"
+  },
+  "dependencies": {
+    "single-spa": "^6.0.1",
+    "single-spa-layout": "^2.2.0"
+  }
+}
